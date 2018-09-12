@@ -1,0 +1,18 @@
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "LocalBusiness",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Deutschland Braunschweig",
+    "addressRegion": "NI",
+    "streetAddress": "Scholkestr. 14",
+    "postalCode": "38118"
+  },
+  "description": "Personliche Beratung fur Baufinanzierungen, TOP Konditionen.",
+  "name": "Geisler Finanzen",
+  "telephone": "+49 531 250 91 92",
+  "image": "http://geisler-finanzen.de/wp-content/uploads/2016/04/Fotolia_80263098_S_500px.jpg",
+  "priceRange": "$$"
+}
+</script>
