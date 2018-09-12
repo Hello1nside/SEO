@@ -1,0 +1,23 @@
+<script type="application/ld+json">
+{ "@context" : "http://schema.org",
+  "@type" : "Organization",
+  "legalName" : "Esthetic World PMU & Microblading Beauty",
+  "url" : "https://estheticworldbeauty.com/",
+  "email" : "info@estheticworldbeauty.com",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Norridge, Illinois",
+    "postalCode": "60706",
+    "streetAddress": "4701 N. Cumberland Ave. Suite 18B"
+  },
+  "contactPoint" : [{
+    "@type" : "ContactPoint",
+    "telephone" : "+1 630-670-2154",
+    "contactType" : "customer service"
+  }],
+  "logo" : "https://estheticworldbeauty.com/wp-content/uploads/2018/05/ewb-logo-2018.png",
+  "sameAs" : [ "https://www.instagram.com/esthetic_world_beauty/",
+    "https://twitter.com/esthetic_world",
+    "https://www.facebook.com/estheticworldbeauty"]
+}
+</script>
