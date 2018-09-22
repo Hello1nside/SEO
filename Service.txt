@@ -1,0 +1,68 @@
+  <script type="application/ld+json">
+    {
+      "@context": "http://schema.org/",
+      "@type": "Service",
+        "provider": {
+        "@type": "LocalBusiness",
+        "name": "Breen Consulting",
+        "telephone": "+1 877 881-4688",
+        "image": "https://joebreen.com/wp-content/themes/Breen/dist/images/logo.jpg",
+        "priceRange": "$$",
+        "address": {
+        	"@type": "PostalAddress",
+        	"addressLocality": "Washington, DC",
+        	"streetAddress": "601 Pennsylvania Ave.,NW South Building, Suite 800",
+        	"postalCode": "20004"
+      	}
+      },
+      "serviceType": "Expediting Growth Through Government Contracts",
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "itemListElement": [
+              {
+                "@type": "Offer",
+                "itemOffered": {
+                  "@type": "Service",
+                  "name": "GSA Contract Development"
+                }
+              },
+              {
+                "@type": "Offer",
+                "itemOffered": {
+                  "@type": "Service",
+                  "name": "Government Contract Management"
+                }
+              },
+              {
+                "@type": "Offer",
+                "itemOffered": {
+                  "@type": "Service",
+                  "name": "GSA Contract Consulting"
+                }
+              },
+              {
+                "@type": "Offer",
+                "itemOffered": {
+                  "@type": "Service",
+                  "name": "GSA Contract Compliance"
+                }
+              },
+              {
+                "@type": "Offer",
+                "itemOffered": {
+                  "@type": "Service",
+                  "name": "Market Intelligence"
+                }
+              },
+              {
+                "@type": "Offer",
+                "itemOffered": {
+                  "@type": "Service",
+                  "name": "Turn-Key Program Management"
+                }
+              }
+            ]
+          }
+      }
+    }
+    </script>
