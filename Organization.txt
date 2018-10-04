@@ -21,3 +21,35 @@
     "https://www.facebook.com/estheticworldbeauty"]
 }
 </script>
+
+
+<! --------------------------------------------------------------- ->
+
+<script type="application/ld+json">
+   {
+  "@context": "http://schema.org",
+  "@id": "https://www.egl-geo.com/#organization",
+  "@type": "Organization",
+  "name": "EGL Equipment Services Co.,Ltd",
+  "url": "https://www.egl-geo.com/",
+  "description": "EGL Equipment Services Co.,Ltd is a professional geophone supplier which located in China, with the aim to integrate separated resources and supply our clients with all around Geophone / Geophysical Products and related services. All the founding partners of EGL have experiences of over 20 years' in the field of Geophone production / Geophysical services with education background of PHD, Master or Geophysics Undergraduate Degree.",
+  "logo": "https://www.egl-geo.com/theme/botao/images/logo.png",
+  "email": [
+        "sales@egl-geo.com",
+        "info@egl-geo.com"
+        ],
+  "address": {
+     "@type": "PostalAddress",
+   "addressCountry": "CN",
+     "addressLocality": "Xi’an",
+     "addressRegion": "Shaanxi",
+            "postalCode": "710014",
+     "streetAddress": "Building No.2,B Section, Shenglong Plaza,Weiyang Road"
+  },
+  "contactPoint": {
+       "@type": "ContactPoint",
+       "telephone": "+86-29-8110-2904",
+       "contactType": "sales"
+      }
+  }
+    </script>
