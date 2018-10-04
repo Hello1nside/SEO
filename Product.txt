@@ -1,0 +1,15 @@
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "image": "https://nicas.com.ua/image/cache/catalog/Террасы/AGT/494212623_w0_h430_sundeck3.800x600-800x800.jpg",
+  "url": "https://nicas.com.ua/AGT-Sundeck",
+  "name": "Террасная доска AGT Sundeck полнотелая 25х140х2800",
+  "description": "Композитная террасная доска SunDeck производства турецкой кампании AGT представляет собой настил, изготовленный из древесной муки, смешанной с полипропиленом и особыми примесями, которые прессуются под высоким давлением и тепловом эффекте.",
+  "offers": {
+    "@type": "Offer",
+    "Price": "2300.00",
+    "priceCurrency": "UAH"
+  }
+}
+</script>
