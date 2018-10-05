@@ -1,6 +1,7 @@
 <script type="application/ld+json">
 {
   "@context": "http://schema.org",
+  "@id": "http://geisler-finanzen.de/#localbusiness",
   "@type": "LocalBusiness",
   "address": {
     "@type": "PostalAddress",
